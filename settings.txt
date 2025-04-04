@@ -1,0 +1,5 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+CAPTION = Shooter Boy
+MONSTER_PATH = images/monsters/
+BG_PATH = images/background/
