@@ -3,3 +3,6 @@ SCREEN_HEIGHT = 600
 CAPTION = Shooter Boy
 MONSTER_PATH = images/monsters/
 BG_PATH = images/background/
+MONSTER_SIZE_H = 64
+MONSTER_SIZE_W = 64
+LEVEL_START_MONSTERS = 3
