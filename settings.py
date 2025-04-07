@@ -17,3 +17,6 @@ BACKGROUND_IMAGES_PATH = settings["BG_PATH"]
 # Настройки
 MONSTER_SIZE = (int(settings["MONSTER_SIZE_W"]), int(settings["MONSTER_SIZE_H"]))  # размер монстров
 LEVEL_START_MONSTERS = int(settings["LEVEL_START_MONSTERS"])  # количество монстров на первом уровне
+LEVEL_START_BULLETS = int(settings["LEVEL_START_BULLETS"])  # количество пуль на первом уровне
+CROSSHAIR_PATH = settings["CROSSHAIR_PATH"]
+CROSSHAIR_SIZE = (int(settings["CROSSHAIR_SIZE_W"]), int(settings["CROSSHAIR_SIZE_H"]))  # размер прицела
