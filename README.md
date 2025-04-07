@@ -53,14 +53,15 @@
    ```bash
    pip install pygame
 2. Запустите игру:
-python main.py
+   ```bash
+   python main.py
 Убедитесь, что у вас есть папки с изображениями фонов, монстров и прицела:
-├── images/
-│   ├── background/
-│   ├──── background1.png
-│   ├──── background2.png
-│   ├── monsters/
-│   ├──── monster1.png
-│   ├──── monster2.png
-│   └── crosshair.png
+   ├── images/
+   │   ├── background/
+   │   ├──── background1.png
+   │   ├──── background2.png
+   │   ├── monsters/
+   │   ├──── monster1.png
+   │   ├──── monster2.png
+   │   └── crosshair.png
 
